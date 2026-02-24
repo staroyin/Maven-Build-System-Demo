@@ -2,7 +2,7 @@
 
 <!-- ── CI BADGES ─────────────────────────────────────────────────────── -->
 <!-- These badges are auto-updated by the CI pipeline on every push.     -->
-<!-- Replace YOUR_USERNAME/YOUR_REPO with your actual GitHub path.       -->
+<!-- Replace YOUR_USERNAME/YOUR_REPO with your actual GitHub path.      -->
 
 ![Build Status](https://github.com/UHSETeaching/Maven-Build-System-Demo/actions/workflows/ci.yml/badge.svg)
 ![Coverage](https://github.com/UHSETeaching/Maven-Build-System-Demo/raw/gh-pages/.badges/jacoco.svg)
